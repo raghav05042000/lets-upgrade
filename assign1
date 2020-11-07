@@ -1,0 +1,22 @@
+Question 1: RAINBOW
+
+Question 2:print("LETS UPGRADE")
+
+Question 3:
+cp=int(input())
+sp=int(input())
+if(cp>sp):
+    print("Profit")
+elif(cp==sp):
+    print("Neither")
+else: 
+    print("Loss")
+    
+Question 4:
+inr=int(input())
+print(inr*80)
+
+
+
+
+
